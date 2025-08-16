@@ -1,5 +1,8 @@
 # EventEase: Power Automate
 # Event Management & Certificate Automation System
+
+![alt text]([http://url/to/img.png](https://github.com/devlop-suraj/EventEase/blob/main/ss.png))
+
 Workflow Overview
 Goal: Automate registration, attendance, and certificate distribution while adding analytics & AI features.
 Workflow – Microsoft Forms Based
