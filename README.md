@@ -4,6 +4,8 @@
 ![alt text](https://github.com/devlop-suraj/EventEase/blob/main/ss.png?raw=true)
 
 Workflow Overview
+![alt text](https://github.com/devlop-suraj/EventEase/blob/main/unnamed.png?raw=true)
+
 Goal: Automate registration, attendance, and certificate distribution while adding analytics & AI features.
 Workflow – Microsoft Forms Based
 (https://github.com/devlop-suraj/EventEase/blob/main/ss.png)
