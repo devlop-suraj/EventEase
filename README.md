@@ -3,8 +3,7 @@
 Workflow Overview
 Goal: Automate registration, attendance, and certificate distribution while adding analytics & AI features.
 Workflow – Microsoft Forms Based
-![Uploading image.png…]()
-
+(https://github.com/devlop-suraj/EventEase/blob/main/ss.png)
 1. Registration Phase
 1.	Participant Registration
 o	Fill Microsoft Form with fields: Name, Email, College, Role (Student/Faculty/etc.).
